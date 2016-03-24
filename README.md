@@ -1,3 +1,11 @@
+TODO:
+
+  - use perl do the directory listing things, etc
+  - use pandoc to parse
+  - the css is pretty fine here, just copy
+
+---
+
 #Markdown to Github Html
 
 ##Motivation
